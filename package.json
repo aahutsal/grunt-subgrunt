@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "async": "^3.2.2",
-    "glob": "^4.0.5"
+    "glob": "^5.0.15"
   },
   "engines": {
     "node": ">=0.8.0"
